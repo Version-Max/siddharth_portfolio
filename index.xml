@@ -72,23 +72,44 @@ Tools used: Power BI, Excel, MySQL
     </item>
     
     <item>
-      <title>What is P-value in simple english</title>
-      <link>https://version-max.github.io/siddharth_portfolio/blogs/blog-1/</link>
-      <pubDate>Wed, 29 Apr 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://version-max.github.io/siddharth_portfolio/blogs/blog-1/</guid>
-      <description>Goal: Identify business journey of an enterprise with offices all over the country
-Tools used: Power BI, Excel, MySQL
-  Link to Google</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://version-max.github.io/siddharth_portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://version-max.github.io/siddharth_portfolio/contact/</guid>
-      <description>You can write to me on siddharth-sinha@outlook.com</description>
+      <description>  You can write to me at: siddharth-sinha@outlook.com
+  You can connect with me on LinkedIn at: https://www.linkedin.com/in/sidisready/
+  You can visit my GitHub page at: https://github.com/Version-Max
+  </description>
+    </item>
+    
+    <item>
+      <title>Is 5G dangerous?</title>
+      <link>https://version-max.github.io/siddharth_portfolio/my-op-ed/op_ed-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/my-op-ed/op_ed-1/</guid>
+      <description>Let me analyze this for you</description>
+    </item>
+    
+    <item>
+      <title>Is 5G dangerous?</title>
+      <link>https://version-max.github.io/siddharth_portfolio/what-am-i-reading/books-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/what-am-i-reading/books-1/</guid>
+      <description>Let me analyze this for you</description>
+    </item>
+    
+    <item>
+      <title>What is P-value in simple english</title>
+      <link>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-1/</guid>
+      <description>Goal: Identify business journey of an enterprise with offices all over the country
+Tools used: Power BI, Excel, MySQL
+  Link to Google</description>
     </item>
     
   </channel>

@@ -45,21 +45,7 @@
   </url>
   
   <url>
-    <loc>https://version-max.github.io/siddharth_portfolio/blogs/</loc>
-    <lastmod>2020-04-29T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://version-max.github.io/siddharth_portfolio/post/project-1/</loc>
-    <lastmod>2020-04-29T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://version-max.github.io/siddharth_portfolio/blogs/blog-1/</loc>
     <lastmod>2020-04-29T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -79,6 +65,12 @@
   </url>
   
   <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/what-am-i-reading/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://version-max.github.io/siddharth_portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -91,7 +83,37 @@
   </url>
   
   <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/my-op-ed/op_ed-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/what-am-i-reading/books-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/my-op-ed/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://version-max.github.io/siddharth_portfolio/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
