@@ -6,18 +6,62 @@
     <description>Recent content in Hi! Welcome to my website on Siddharth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://version-max.github.io/siddharth_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://version-max.github.io/siddharth_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 2</title>
-      <link>https://version-max.github.io/siddharth_portfolio/post/project-2/</link>
-      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      <title>Project 6 - Covid-19 Analysis and Prediction</title>
+      <link>https://version-max.github.io/siddharth_portfolio/post/project-6/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://version-max.github.io/siddharth_portfolio/post/project-2/</guid>
-      <description>Project B    Link to Google</description>
+      <guid>https://version-max.github.io/siddharth_portfolio/post/project-6/</guid>
+      <description>Goal: Analyze the covid-19 trends along and compare countries on their covid response. Create a model that helps forecast the number of cases per day, week and month.
+  SARS-COV_2 is spreading like wildfire which has upenended our lives and made the economy go in tatters. The goal of this project is to compare responses of different countries to this pandemic, which can enable countries to model their response in a similar way to succesful countries.</description>
     </item>
     
     <item>
-      <title>Project 1: Descriptive analysis of Business using Power-BI</title>
+      <title>Project 2 - Clustering Stocks with K-Means Algorithm</title>
+      <link>https://version-max.github.io/siddharth_portfolio/post/project-2/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/post/project-2/</guid>
+      <description>Basic Overview:   Goal: Create an algorithm that helps financial experts to categorize stocks with particular attributes in a specific cluster.
+  Stock selection, outlier detection, portfolio creation are important mechanisms for the financial industry to maximize and strategize the right investments in the stock market. Therefore, using certain indicators (often latent factors) we would attempt to cluster the given stocks to enable data driven decision making.
+  Clustering will help in pointing common attributes/characteristics the clustered stocks share.</description>
+    </item>
+    
+    <item>
+      <title>Project 3 - House Price prediction</title>
+      <link>https://version-max.github.io/siddharth_portfolio/post/project-3/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/post/project-3/</guid>
+      <description>Goal: Create a model that helps potential home buyers to estimate the price of homes in a particular city.
+  The prices of homes can fluctuate depending on the number of bedrooms and bathrooms, the location and the histroic growth of the housing market. This project tries to take into account all the attributes that influences the home pricing and give these attributes the fair weight that they use to influence the pricing.</description>
+    </item>
+    
+    <item>
+      <title>Project 4 - Uber ride prediction</title>
+      <link>https://version-max.github.io/siddharth_portfolio/post/project-4/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/post/project-4/</guid>
+      <description>Goal: Create a model to predict the number of weekly riders a rideshare company like Uber should expect.
+  Uber is a company that needs to be on top of their game to meet rideshare demands, if they underprepare to serve the number of potential riders they will lose big money. More importantly it will give more room for their competition to grow.
+  Therefore, this model will help Uber to predict number of riders based on attributes such as population of a city, average income of residents of that city, and the average amount a rider spends on ride-share per week.</description>
+    </item>
+    
+    <item>
+      <title>Project 5 - Fraud Prevention</title>
+      <link>https://version-max.github.io/siddharth_portfolio/post/project-5/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/post/project-5/</guid>
+      <description>Goal: Create a model that helps banks in preventing fraud to spot fake currency.
+  The cost of counterfit currency circulating in our economy has devastating affects that cab disfigure the economic aparatus. Banks are on the frontlines to help the governemnt in making sure the economy is operating flawlessly. This effort by humans alone is not possible.
+  Therefore, this project uses data acquisition, cleaning, and algorithm testing to construct a model that helps banks detect fake currency.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Descriptive analysis of Business using Power-BI</title>
       <link>https://version-max.github.io/siddharth_portfolio/post/project-1/</link>
       <pubDate>Wed, 29 Apr 2020 10:58:08 -0400</pubDate>
       
@@ -36,42 +80,6 @@ Tools used: Power BI, Excel, MySQL
       <description>Goal: Identify business journey of an enterprise with offices all over the country
 Tools used: Power BI, Excel, MySQL
   Link to Google</description>
-    </item>
-    
-    <item>
-      <title>Chapter VI: Esmeralda</title>
-      <link>https://version-max.github.io/siddharth_portfolio/post/chapter-6/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://version-max.github.io/siddharth_portfolio/post/chapter-6/</guid>
-      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
-    </item>
-    
-    <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://version-max.github.io/siddharth_portfolio/post/chapter-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://version-max.github.io/siddharth_portfolio/post/chapter-5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
-    </item>
-    
-    <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://version-max.github.io/siddharth_portfolio/post/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://version-max.github.io/siddharth_portfolio/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
-    </item>
-    
-    <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://version-max.github.io/siddharth_portfolio/post/chapter-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://version-max.github.io/siddharth_portfolio/post/chapter-3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
     </item>
     
     <item>
