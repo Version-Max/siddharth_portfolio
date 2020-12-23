@@ -7,14 +7,71 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>What is a confusion matrix</title>
+      <link>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-3/</guid>
+      <description>What is a confusion matrix?  To understand what a confusion matrix is we must first understand the following 6 terms:
+ True Positive True Negative False Positive False Negative Precision Recall Accuracy  Believe it or not it took me some time to wrap my head around on what the terms True Positive, True Negative, False Positive, and False Negative actually mean. I am here to assure people like me who struggled that its very simple to understand.</description>
+    </item>
+    
+    <item>
+      <title>What is Bias and Variance</title>
+      <link>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-2/</guid>
+      <description>What is Bias-Variance tradeoff?
+Let&#39;s understand in plain English what the words Bias and Variance mean.
+  Bias:
+ Bias is the distance between the predicted values and the actual values.    Image Credit: https://commons.wikimedia.org/wiki/File:Residuals_for_Linear_Regression_Fit.png   Low Bias means the distance between the predicted values and the actual values (aka residuals) are low. We always want a result with low bias.
+  High Bias means the distance between the predicted values and the actual values (aka residuals) are high.</description>
+    </item>
+    
+    <item>
+      <title>What is Correlation and Covariance</title>
+      <link>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-6/</guid>
+      <description>What is Correlation and Covariance?  Correlation indicates as that as one variable changes in value so does another value. The correlation coefficient describes the strength and direction of such an association.
+A correlation coefficient can range from -1 to 1.
+  +ve correlation indicates as one variable increase so does the other variable in the same direction. Correlation coefficient of 1 is a perfect positive correlation.
+  -ve correlation indicates as one variable increase so does the other variable in the opposite direction.</description>
+    </item>
+    
+    <item>
+      <title>What is Normal distribution and why is it important</title>
+      <link>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-5/</guid>
+      <description>What is Normal distribution and why is it important?  Normal distribution fits many natural occurrences such as height distribution, test score distribution, and weight distribution.
+Using normal distribution, we could examine how the values in a variable are distributed. The normal distribution consists of the following properties:
+ Mean, Median, and Mode are all equal and placed in the center of the bell-shaped curve. It is symmetrical in nature; left half of the graph is equal to the right half of the graph.</description>
+    </item>
+    
+    <item>
       <title>What is P-value in simple english</title>
       <link>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-1/</guid>
-      <description>Goal: Identify business journey of an enterprise with offices all over the country
-Tools used: Power BI, Excel, MySQL
-  Link to Google</description>
+      <description>What is P-value?
+In order to understand p-value we first need to understand
+ Null Hypothesis Alternative Hypothesis  Lets use the court system to understand the above concepts.
+Suppose we have a person accused of hacking into an organization&amp;rsquo;s top secret server. The organization is now using their lawyers to get this person behind the bars aka prove this person as guilty. Remember: Everyone is innocent until proven guilty.</description>
+    </item>
+    
+    <item>
+      <title>What is the use of ROC</title>
+      <link>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-4/</guid>
+      <description>Explain the use of an ROC?
+Let&#39;s talk about ROC using Binary classifier as a use case. We know a binary classifier&#39;s ability is only to classify objects (data) either as true or false. The way binary classifier classifies an object is by giving it a probability of between 0 and 1. By default a lot of classifiers use the threshold of 0.5 to make the distinction between which binary class an object belongs to.</description>
     </item>
     
   </channel>

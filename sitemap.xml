@@ -113,7 +113,37 @@
   </url>
   
   <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-6/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://version-max.github.io/siddharth_portfolio/data-analytics-blogs/blog-4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
